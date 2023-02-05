@@ -1,6 +1,6 @@
 # Terraform-project  
   
-## Mini Project
+## Task
 
 * Using Terraform, create 3 EC2 instances and put them behind an Elastic Load Balancer
 * Make sure the after applying your plan, Terraform exports the public IP addresses of the 3 instances to a file called host-inventory
